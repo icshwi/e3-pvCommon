@@ -108,8 +108,8 @@ pvData_VERSION=
 pvAccess_VERSION=
 pva2pva_VERSION=
 pvDatabase_VERSION=
-normativeType=
-pvaClient=
+normativeTypes_VERSION=
+pvaClient_VERSION=
 
 
 ## This RULE should be used in case of inflating DB files 
