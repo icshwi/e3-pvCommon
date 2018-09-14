@@ -1,4 +1,4 @@
 [submodule "pvCommonCPP"]
 	path = pvCommonCPP
-	url = https://github.com/epics-base/pvCommonCPP
+	url = https://github.com/jeonghanlee/pvCommonCPP
 	ignore = dirty
